@@ -1,4 +1,0 @@
-﻿  finalp.c
-c:\users\ryan\documents\visual studio 2015\projects\project24\project24\finalp.c(29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  Project24.vcxproj -> C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Project24\Debug\Project24.exe
-  Project24.vcxproj -> C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Project24\Debug\Project24.pdb (Partial PDB)
